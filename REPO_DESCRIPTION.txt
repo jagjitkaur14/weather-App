@@ -1,0 +1,1 @@
+A responsive weather dashboard using OpenWeatherMap API with real-time weather, hourly forecast, 7-day forecast, unit toggle, saved default location, and local preference storage.
